@@ -1,0 +1,43 @@
+#temp file
+*.pyc
+*.log
+log/
+.vs/
+*.txt
+#download file or config file
+*.xml
+*.json
+*.flv
+*.mp4
+*.m4s
+*.mkv
+Download/
+#other file
+.project
+#execute library
+*.exe
+*.spec
+dist/
+build/
+*.bat
+v.py
+python_x86/
+python_x64/
+# README.md Convert file
+node_modules/
+converttohtml.js
+README.html
+easyuse.html
+html.css
+# Download JavaScript file or Compressed JavaScript file
+webuihtml/csso/
+webuihtml/js/
+webuihtml/jso/
+compiler.jar
+# JSON use for webUI
+!webuihtml/json/*.json
+# FONT file
+*.ttf
+*.otf
+*.woff
+*.woff2
